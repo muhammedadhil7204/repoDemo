@@ -1,2 +1,3 @@
-print("hello")
-print("world")
+def greet(name) : 
+    print("Hi",name)
+greet("Adhil")    
